@@ -43,7 +43,6 @@ h1
 *
 {
     font-family: Arial;
-    background-color: antiquewhite;
 }
 body    
 {
@@ -202,3 +201,32 @@ body
     background-color: yellowgreen;
 }
 
+.not 
+{
+    height: 100%; 
+    width: 100%;
+}
+body.not-found
+{
+    height: 100%; 
+    width: 100%;
+}
+
+.hello
+{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.home
+{
+    background-color:antiquewhite;
+}
+
+.about-us
+{
+    background-color: bisque;
+}
